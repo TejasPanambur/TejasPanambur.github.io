@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.cf0a6dbb.chunk.css",
-    "main.js": "/static/js/main.a0a3be8d.chunk.js",
-    "main.js.map": "/static/js/main.a0a3be8d.chunk.js.map",
+    "main.js": "/static/js/main.f1902fdb.chunk.js",
+    "main.js.map": "/static/js/main.f1902fdb.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f24d2235.js",
     "runtime-main.js.map": "/static/js/runtime-main.f24d2235.js.map",
     "static/js/2.7025c83e.chunk.js": "/static/js/2.7025c83e.chunk.js",
     "static/js/2.7025c83e.chunk.js.map": "/static/js/2.7025c83e.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.16a71b4661e4d5042c80ddfe547b060a.js": "/precache-manifest.16a71b4661e4d5042c80ddfe547b060a.js",
+    "precache-manifest.5a24045fda402120510a8aab9a40e49b.js": "/precache-manifest.5a24045fda402120510a8aab9a40e49b.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.cf0a6dbb.chunk.css.map": "/static/css/main.cf0a6dbb.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.f24d2235.js",
     "static/js/2.7025c83e.chunk.js",
     "static/css/main.cf0a6dbb.chunk.css",
-    "static/js/main.a0a3be8d.chunk.js"
+    "static/js/main.f1902fdb.chunk.js"
   ]
 }
